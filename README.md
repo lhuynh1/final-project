@@ -16,7 +16,6 @@ This application has the simple purpose of creating a space where developers can
 
 
 
-
 ##Breakdown of roles: 
 ###Lisa Huynh: 
     *Researching and implementing user authentication. The goal is to have an authentication with github.
