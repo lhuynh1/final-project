@@ -5,12 +5,12 @@ This application has the simple purpose of creating a space where developers can
 
 
 ## Screen-by-screen design layout 
-![Alt text](../proj-imgs/start.PNG?raw=true)
-![Alt text](../proj-imgs/login.PNG?raw=true)
-![Alt text](../proj-imgs/findproj.PNG?raw=true)
-![Alt text](../proj-imgs/projsearch.PNG?raw=true)
-![Alt text](../proj-imgs/submit.PNG?raw=true)
-![Alt text](../proj-imgs/submitproj.PNG?raw=true)
+![Alt text](/proj-imgs/start.PNG?raw=true)
+![Alt text](/proj-imgs/login.PNG?raw=true)
+![Alt text](/proj-imgs/findproj.PNG?raw=true)
+![Alt text](/proj-imgs/projsearch.PNG?raw=true)
+![Alt text](/proj-imgs/submit.PNG?raw=true)
+![Alt text](/proj-imgs/submitproj.PNG?raw=true)
 
 
 ## Breakdown of roles: 
