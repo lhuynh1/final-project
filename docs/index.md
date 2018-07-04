@@ -21,8 +21,7 @@ This application has the simple purpose of creating a space where developers can
 	* Create project postings form & page functionality
 		       
 ### Sharmeen P. 
-	* Build out the project search form and route to search results  
-
+	* Build out the project search form and route to search results. Build nav bar and footer.
 
 
 ## Project task schedule using Trello:  
