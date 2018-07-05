@@ -17,11 +17,12 @@ This application has the simple purpose of creating a space where developers can
 ### Lisa Huynh: 
     * Researching and implementing user authentication. The goal is to have an authentication with github.
     * Database setup/structure 
+    * Build Nav Bar
 ### Michael Dibble:
 	* Create project postings form & page functionality
 		       
 ### Sharmeen P. 
-	* Build out the project search form and route to search results. Build nav bar and footer.
+	* Build out the project search form and route to search results. Build footer.
 
 
 ## Project task schedule using Trello:  
